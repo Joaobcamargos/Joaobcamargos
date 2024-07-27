@@ -9,5 +9,5 @@
 - **Machine Learning**
 
 ## Current Experience
-I am actively involved in an autonomous robotics competition and a research team, where I work as a navigation projectist.
+I am actively involved in an autonomous robotics competitio abd research team, where I work as a navigation projectist.
 
