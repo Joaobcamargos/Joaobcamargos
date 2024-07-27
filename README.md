@@ -1,5 +1,5 @@
 # João Vitor
-🤖
+
 ## About Me
 **Undergraduate in Control and Automation Engineering at UFMG**
 
@@ -9,5 +9,5 @@
 - **Machine Learning**
 
 ## Current Experience
-I am actively involved in an autonomous robotics competitio abd research team, where I work as a navigation projectist.
+I am currently a member of an autonomous robotics competition and research team, where I work as a navigation projectist.🤖
 
