@@ -9,4 +9,5 @@ I am an undergraduate in Control and Automation Engineering at the Federal Unive
 - **Machine Learning**
 
 ## Current Experience
-I am participating in an autonomous robotics competition and research team as a navigation projetist. 
+I am actively involved in an autonomous robotics competition and a research team, where I work as a navigation projectist.
+
