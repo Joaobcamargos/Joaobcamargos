@@ -1,16 +1,12 @@
-## Hi there 👋
+# João Vitor
+🤖
+## About Me
+I am an undergraduate in Control and Automation Engineering at the Federal University of Minas Gerais
 
-<!--
-**Joaobcamargos/Joaobcamargos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- **Robotics** 
+- **Computer Vision**
+- **Machine Learning**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Experience
+I am participating in an autonomous robotics competition and research team as a navigation projetist. 
