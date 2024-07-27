@@ -1,7 +1,7 @@
 # João Vitor
 🤖
 ## About Me
-I am an undergraduate in Control and Automation Engineering at the Federal University of Minas Gerais
+**Undergraduate in Control and Automation Engineering at UFMG**
 
 ## Interests
 - **Robotics** 
