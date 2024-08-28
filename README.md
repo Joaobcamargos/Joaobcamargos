@@ -9,6 +9,6 @@
 - **Machine Learning**
 - **Dynamic Systems**
 
-## Current Experience
+## Experience
 I'm currently a member of an autonomous robotics competition and research team, where I work as a navigation systems developer.🤖
 
