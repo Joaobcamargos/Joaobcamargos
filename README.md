@@ -9,6 +9,5 @@
 - **Machine Learning**
 - **Dynamic Systems**
 
-## Experience
-AUTBOTZ UFMG
+
 
