@@ -8,6 +8,7 @@
 - **Computer Vision**
 - **Machine Learning**
 - **Dynamic Systems**
+- **Operational Research**
 
 
 
