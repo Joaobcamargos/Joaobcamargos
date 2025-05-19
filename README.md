@@ -4,11 +4,11 @@
 
 
 ## Interests
+- **Dynamic Systems and Control**
 - **Robotics** 
-- **Computer Vision**
+- **Embedded systems**
 - **Machine Learning**
-- **Dynamic Systems**
-- **Operational Research**
+- **Optimization**
 
 
 
