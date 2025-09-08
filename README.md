@@ -1,8 +1,7 @@
 # João Vitor
 
 ## About Me
-Undergraduate researcher in swarm robotics
-
+Undergraduate student in Control and Automation Engineering.
 ## Interests
 - **Dynamic Systems and Control**
 - **Robotics** 
